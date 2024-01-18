@@ -1,4 +1,4 @@
-# hi chat
+# hi
 
 ###  I'm Talan, and I'm currently in my final year of Digital Game Design at SWCTA. However, in the near future, I don't have any plans to pursue it as a career, as I'm planning to enter the Computer Science field instead. This is because Game Design majors aren't avaliable in any colleges in the state I live in, so Computer Science is the next best option. 
 
@@ -7,7 +7,7 @@
 ### Thanks for stopping by!
 🕳                  👨‍🦯
 
-# USA 🇺🇸 USA 🇺🇸 USA 🇺🇸 USA
+# USA  USA  USA  USA
 <!--
 **Las4e/Las4e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
