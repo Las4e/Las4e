@@ -5,6 +5,9 @@
 ### Currently, I'm working on a fun project where I replace every single texture and sound effect in Wii Sports. It sounds simple, but the process can be time consuming, especially when setting up certain things, such as the tools needed to replace said sound files.
 
 ### Thanks for stopping by!
+🕳                  👨‍🦯
+
+# USA 🇺🇸 USA 🇺🇸 USA 🇺🇸 USA
 <!--
 **Las4e/Las4e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
